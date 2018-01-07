@@ -1,5 +1,5 @@
 # Starter Web Repo
-
+Simple change for rebase
 This repository is for showing how Git and GitHub work
 
 ## Purpose for learning merge
