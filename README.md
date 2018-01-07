@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 
-## Purpose
+## Purpose for learning
 
 Sample website with plenty of files for demos
 CHANGING HERE. testing for merge
